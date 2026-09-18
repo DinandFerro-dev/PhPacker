@@ -1,2 +1,2 @@
-# PhPacker
-PhPacker: Compile your PHP applications into a single, standalone native binary powered by Rust. Zero dependencies, zero PHP installations, maximum speed. Protect your source code and simplify your deployments instantly.
+🚀 The Ultimate Bridge Between PHP’s Flexibility and Rust’s Power. 
+PhPacker is a static compilation engine that embeds the PHP runtime(8.3) and your custom scripts directly into a standalone binary. It empowers developers to distribute CLI tools, microservices, or full web applications without forcing the end-user to install PHP, system extensions, or external libraries. Your code runs natively, anywhere.
